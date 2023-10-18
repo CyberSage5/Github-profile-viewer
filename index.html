@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Profile Viewer</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>GitHub Profile Viewer</h1>
+        <div class="search-box">
+            <input type="text" id="username" placeholder="Enter GitHub Username">
+            <button onclick="getProfile()">View Profile</button>
+        </div>
+        <div class="profile">
+            <img id="avatar" src="" alt="User Avatar">
+            <h2 id="name"></h2>
+            <p id="bio"></p>
+            <p><strong>Repositories:</strong> <span id="repos"></span></p>
+            <p><strong>Followers:</strong> <span id="followers"></span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+

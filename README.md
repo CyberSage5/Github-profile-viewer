@@ -11,7 +11,7 @@ The GitHub Profile Viewer is a web application that allows you to view GitHub us
 
 ## Demo
 
-You can try the app live at [Demo Link](https://your-demo-link.com).
+You can try the app live at https://block-chain7.github.io/Github-profile-viewer/.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 function getProfile() {
     const username = document.getElementById("username").value;
     if (username) {
-       
+        fetch(`https://api.github.com/users/${username}`)
             .then(response => response.json())
             .then(data => {
                 if (data.message === "Not Found") {

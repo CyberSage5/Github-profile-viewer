@@ -57,6 +57,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at terfajohn45@.com
+If you have any questions or feedback, feel free to contact me at terfajohn45@gmail.com
 
 
